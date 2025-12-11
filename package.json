@@ -22,7 +22,7 @@
     "clsx": "^2.1.1",
     "critters": "^0.0.23",
     "lucide-react": "^0.510.0",
-    "next": "^15.3.0",
+    "next": "^15.4.8",
     "next-email": "^1.0.0",
     "next-sanity": "^9.11.1",
     "nodemailer": "^7.0.3",
